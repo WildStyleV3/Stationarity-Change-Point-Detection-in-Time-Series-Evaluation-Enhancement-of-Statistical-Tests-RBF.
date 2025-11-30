@@ -1,1 +1,1 @@
-# Stationarity-Change-Point-Detection-in-Time-Series-Evaluation-Enhancement-of-Statistical-Tests-RBF.
+# Stationarity-Change-Point-Detection-in-Time-Series-Evaluation-Enhancement-of-Statistical-Tests using KRR RBF.
